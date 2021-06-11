@@ -1,0 +1,4476 @@
+categoria 
+
+[
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7e6"),
+        "categoria_id" : 1.0,
+        "cantidad_productos" : "West-Price",
+        "costo" : 741.07
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7e7"),
+        "categoria_id" : 2.0,
+        "cantidad_productos" : "Little, Romaguera and Rempel",
+        "costo" : 1340.92
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7e8"),
+        "categoria_id" : 3.0,
+        "cantidad_productos" : "Abbott-Dietrich",
+        "costo" : 1505.68
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7e9"),
+        "categoria_id" : 4.0,
+        "cantidad_productos" : "Kertzmann, Erdman and Thiel",
+        "costo" : 1131.28
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7ea"),
+        "categoria_id" : 5.0,
+        "cantidad_productos" : "Blick, Runte and Goodwin",
+        "costo" : 1341.46
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7eb"),
+        "categoria_id" : 6.0,
+        "cantidad_productos" : "McCullough-Quitzon",
+        "costo" : 696.43
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7ec"),
+        "categoria_id" : 7.0,
+        "cantidad_productos" : "Swift and Sons",
+        "costo" : 1463.19
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7ed"),
+        "categoria_id" : 8.0,
+        "cantidad_productos" : "Kerluke, Bergnaum and Hudson",
+        "costo" : 1842.03
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7ee"),
+        "categoria_id" : 9.0,
+        "cantidad_productos" : "Grimes and Sons",
+        "costo" : 597.71
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7ef"),
+        "categoria_id" : 10.0,
+        "cantidad_productos" : "Lehner, Erdman and Hoppe",
+        "costo" : 877.26
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f0"),
+        "categoria_id" : 11.0,
+        "cantidad_productos" : "Shields-Botsford",
+        "costo" : 1366.81
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f1"),
+        "categoria_id" : 12.0,
+        "cantidad_productos" : "Bruen, Pagac and Collier",
+        "costo" : 898.97
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f2"),
+        "categoria_id" : 13.0,
+        "cantidad_productos" : "Walter-Denesik",
+        "costo" : 1671.33
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f3"),
+        "categoria_id" : 14.0,
+        "cantidad_productos" : "Collins, Dare and Tillman",
+        "costo" : 1799.49
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f4"),
+        "categoria_id" : 15.0,
+        "cantidad_productos" : "Abshire and Sons",
+        "costo" : "$504.72"
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f5"),
+        "categoria_id" : 16.0,
+        "cantidad_productos" : "Mitchell, Cummerata and Franecki",
+        "costo" : 970.89
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f6"),
+        "categoria_id" : 17.0,
+        "cantidad_productos" : "Schamberger LLC",
+        "costo" : 1045.5
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f7"),
+        "categoria_id" : 18.0,
+        "cantidad_productos" : "Bernhard LLC",
+        "costo" : 926.03
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f8"),
+        "categoria_id" : 19.0,
+        "cantidad_productos" : "Daugherty, Weber and Hoppe",
+        "costo" : 1183.72
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7f9"),
+        "categoria_id" : 20.0,
+        "cantidad_productos" : "Huel and Sons",
+        "costo" : 775.83
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7fa"),
+        "categoria_id" : 21.0,
+        "cantidad_productos" : "Huels-Gleason",
+        "costo" : 1989.95
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7fb"),
+        "categoria_id" : 22.0,
+        "cantidad_productos" : "Terry, Beer and Gleichner",
+        "costo" : 886.3
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7fc"),
+        "categoria_id" : 23.0,
+        "cantidad_productos" : "Ledner-Frami",
+        "costo" : 1150.1
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7fd"),
+        "categoria_id" : 24.0,
+        "cantidad_productos" : "Breitenberg Inc",
+        "costo" : 1920.77
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7fe"),
+        "categoria_id" : 25.0,
+        "cantidad_productos" : "Harris, Schmeler and Thompson",
+        "costo" : 817.97
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a7ff"),
+        "categoria_id" : 26.0,
+        "cantidad_productos" : "Kuhic LLC",
+        "costo" : 654.11
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a800"),
+        "categoria_id" : 27.0,
+        "cantidad_productos" : "Bechtelar Group",
+        "costo" : 657.29
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a801"),
+        "categoria_id" : 28.0,
+        "cantidad_productos" : "Nienow and Sons",
+        "costo" : 1442.82
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a802"),
+        "categoria_id" : 29.0,
+        "cantidad_productos" : "Harber Group",
+        "costo" : 881.15
+    },
+    {
+        "_id" : ObjectId("5f55d05162e60091fd60a803"),
+        "categoria_id" : 30.0,
+        "cantidad_productos" : "Beahan, Russel and Hagenes",
+        "costo" : 1611.75
+    }
+]
+
+
+
+
+Cliente
+
+[
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a676"),
+        "id_cliente" : 1.0,
+        "cedula" : "q4vq4oVLcerw",
+        "first_name" : "Linet",
+        "last_name" : "Blainey",
+        "email" : "lblainey0@lycos.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a677"),
+        "id_cliente" : 2.0,
+        "cedula" : "Lt1rHFLVk",
+        "first_name" : "Baxy",
+        "last_name" : "Jellico",
+        "email" : "bjellico1@businessinsider.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a678"),
+        "id_cliente" : 3.0,
+        "cedula" : "LyefY4r",
+        "first_name" : "Rollie",
+        "last_name" : "Sygrove",
+        "email" : "rsygrove2@elpais.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a679"),
+        "id_cliente" : 4.0,
+        "cedula" : "40WakPBI",
+        "first_name" : "Steve",
+        "last_name" : "Robertet",
+        "email" : "srobertet3@mac.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a67a"),
+        "id_cliente" : 5.0,
+        "cedula" : "8JY5To0iM",
+        "first_name" : "Noach",
+        "last_name" : "Etherton",
+        "email" : "netherton4@youtube.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a67b"),
+        "id_cliente" : 6.0,
+        "cedula" : "tPPIwli3",
+        "first_name" : "Owen",
+        "last_name" : "Chason",
+        "email" : "ochason5@theglobeandmail.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a67c"),
+        "id_cliente" : 7.0,
+        "cedula" : "N0j5gjGV",
+        "first_name" : "Evangelina",
+        "last_name" : "Argente",
+        "email" : "eargente6@arizona.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a67d"),
+        "id_cliente" : 8.0,
+        "cedula" : "MzlreEaj",
+        "first_name" : "Torrey",
+        "last_name" : "Larmett",
+        "email" : "tlarmett7@alexa.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a67e"),
+        "id_cliente" : 9.0,
+        "cedula" : "JnbTsXsGr",
+        "first_name" : "Lillis",
+        "last_name" : "Alexandrescu",
+        "email" : "lalexandrescu8@wufoo.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a67f"),
+        "id_cliente" : 10.0,
+        "cedula" : "OX3VMGH8Os3g",
+        "first_name" : "Drusi",
+        "last_name" : "Jikovsky",
+        "email" : "djikovsky9@moonfruit.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a680"),
+        "id_cliente" : 11.0,
+        "cedula" : "9hWzIeVkumls",
+        "first_name" : "Kevyn",
+        "last_name" : "Rapin",
+        "email" : "krapina@sogou.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a681"),
+        "id_cliente" : 12.0,
+        "cedula" : "klbiJt",
+        "first_name" : "Ariana",
+        "last_name" : "Shiell",
+        "email" : "ashiellb@jalbum.net"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a682"),
+        "id_cliente" : 13.0,
+        "cedula" : "DJLbw3",
+        "first_name" : "Ambur",
+        "last_name" : "Livard",
+        "email" : "alivardc@blinklist.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a683"),
+        "id_cliente" : 14.0,
+        "cedula" : "v2OgbfWM2",
+        "first_name" : "Sutton",
+        "last_name" : "Baudry",
+        "email" : "sbaudryd@fema.gov"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a684"),
+        "id_cliente" : 15.0,
+        "cedula" : "XQCSEXg9",
+        "first_name" : "Rip",
+        "last_name" : "Knellen",
+        "email" : "rknellene@virginia.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a685"),
+        "id_cliente" : 16.0,
+        "cedula" : "HjTKoRWXtZ",
+        "first_name" : "Lira",
+        "last_name" : "Platfoot",
+        "email" : "lplatfootf@mozilla.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a686"),
+        "id_cliente" : 17.0,
+        "cedula" : "vjEHtBO",
+        "first_name" : "Janette",
+        "last_name" : "Panner",
+        "email" : "jpannerg@fema.gov"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a687"),
+        "id_cliente" : 18.0,
+        "cedula" : "U0MJOyBxi",
+        "first_name" : "Emelina",
+        "last_name" : "Julyan",
+        "email" : "ejulyanh@spotify.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a688"),
+        "id_cliente" : 19.0,
+        "cedula" : "pt84St44fgZ",
+        "first_name" : "Nathanael",
+        "last_name" : "Glavin",
+        "email" : "nglavini@tiny.cc"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a689"),
+        "id_cliente" : 20.0,
+        "cedula" : "cC5iYrz",
+        "first_name" : "Kassia",
+        "last_name" : "Dell Casa",
+        "email" : "kdellcasaj@businesswire.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a68a"),
+        "id_cliente" : 21.0,
+        "cedula" : "zENOyp30cz",
+        "first_name" : "Revkah",
+        "last_name" : "Tolossi",
+        "email" : "rtolossik@booking.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a68b"),
+        "id_cliente" : 22.0,
+        "cedula" : "BAMiugE",
+        "first_name" : "Richard",
+        "last_name" : "Simmers",
+        "email" : "rsimmersl@vinaora.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a68c"),
+        "id_cliente" : 23.0,
+        "cedula" : "OKXj7p0Zsh",
+        "first_name" : "Ginnifer",
+        "last_name" : "Gabites",
+        "email" : "ggabitesm@npr.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a68d"),
+        "id_cliente" : 24.0,
+        "cedula" : "WvbeBe4SSn3b",
+        "first_name" : "Laurella",
+        "last_name" : "Ianitti",
+        "email" : "lianittin@hhs.gov"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a68e"),
+        "id_cliente" : 25.0,
+        "cedula" : "94YBtBd",
+        "first_name" : "Nadya",
+        "last_name" : "Grinley",
+        "email" : "ngrinleyo@utexas.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a68f"),
+        "id_cliente" : 26.0,
+        "cedula" : "sMv3k3",
+        "first_name" : "Adeline",
+        "last_name" : "Innot",
+        "email" : "ainnotp@illinois.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a690"),
+        "id_cliente" : 27.0,
+        "cedula" : "edB4uN9VkIN",
+        "first_name" : "Maud",
+        "last_name" : "Beades",
+        "email" : "mbeadesq@goo.ne.jp"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a691"),
+        "id_cliente" : 28.0,
+        "cedula" : "2lvHNLbk",
+        "first_name" : "Muffin",
+        "last_name" : "Kemme",
+        "email" : "mkemmer@bing.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a692"),
+        "id_cliente" : 29.0,
+        "cedula" : "rNker65ce",
+        "first_name" : "Gawen",
+        "last_name" : "Blaze",
+        "email" : "gblazes@craigslist.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a693"),
+        "id_cliente" : 30.0,
+        "cedula" : "dmZMOW2pJ",
+        "first_name" : "Rachelle",
+        "last_name" : "Rodliff",
+        "email" : "rrodlifft@homestead.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a694"),
+        "id_cliente" : 31.0,
+        "cedula" : "AJdIkleTrqzQ",
+        "first_name" : "Charity",
+        "last_name" : "Habishaw",
+        "email" : "chabishawu@about.me"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a695"),
+        "id_cliente" : 32.0,
+        "cedula" : "HpLDp7R6o",
+        "first_name" : "Harwilll",
+        "last_name" : "Matelaitis",
+        "email" : "hmatelaitisv@flickr.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a696"),
+        "id_cliente" : 33.0,
+        "cedula" : "jwc1AqGPO",
+        "first_name" : "Ozzie",
+        "last_name" : "Burnie",
+        "email" : "oburniew@ft.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a697"),
+        "id_cliente" : 34.0,
+        "cedula" : "jh1PyFRTuW",
+        "first_name" : "Rayna",
+        "last_name" : "Mouncher",
+        "email" : "rmouncherx@narod.ru"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a698"),
+        "id_cliente" : 35.0,
+        "cedula" : "ZyD9WpLBqOu",
+        "first_name" : "Nelie",
+        "last_name" : "Kyttor",
+        "email" : "nkyttory@nydailynews.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a699"),
+        "id_cliente" : 36.0,
+        "cedula" : "lL25VkGQnC",
+        "first_name" : "Keven",
+        "last_name" : "Deniske",
+        "email" : "kdeniskez@accuweather.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a69a"),
+        "id_cliente" : 37.0,
+        "cedula" : "Enx3T2ppyV4y",
+        "first_name" : "Saxon",
+        "last_name" : "Grayham",
+        "email" : "sgrayham10@netvibes.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a69b"),
+        "id_cliente" : 38.0,
+        "cedula" : "AWl6xBPgjp",
+        "first_name" : "Janka",
+        "last_name" : "Bim",
+        "email" : "jbim11@hostgator.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a69c"),
+        "id_cliente" : 39.0,
+        "cedula" : "2TZTpq",
+        "first_name" : "Queenie",
+        "last_name" : "Bidmead",
+        "email" : "qbidmead12@hibu.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a69d"),
+        "id_cliente" : 40.0,
+        "cedula" : "FatoueR4",
+        "first_name" : "Hal",
+        "last_name" : "Nineham",
+        "email" : "hnineham13@discuz.net"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a69e"),
+        "id_cliente" : 41.0,
+        "cedula" : "m31JlE0fyJ",
+        "first_name" : "Barbee",
+        "last_name" : "Gilsthorpe",
+        "email" : "bgilsthorpe14@plala.or.jp"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a69f"),
+        "id_cliente" : 42.0,
+        "cedula" : "CWqbLq",
+        "first_name" : "Michelle",
+        "last_name" : "Risebrow",
+        "email" : "mrisebrow15@tmall.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a0"),
+        "id_cliente" : 43.0,
+        "cedula" : "m6xgkh5",
+        "first_name" : "Erek",
+        "last_name" : "Letch",
+        "email" : "eletch16@umich.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a1"),
+        "id_cliente" : 44.0,
+        "cedula" : "KR5R258Tjg",
+        "first_name" : "Cornelia",
+        "last_name" : "Southway",
+        "email" : "csouthway17@msu.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a2"),
+        "id_cliente" : 45.0,
+        "cedula" : "PCITGaGZ",
+        "first_name" : "Adey",
+        "last_name" : "Pedroli",
+        "email" : "apedroli18@dell.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a3"),
+        "id_cliente" : 46.0,
+        "cedula" : "hzGCSnDUv5",
+        "first_name" : "Stephan",
+        "last_name" : "Doiley",
+        "email" : "sdoiley19@bloglovin.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a4"),
+        "id_cliente" : 47.0,
+        "cedula" : "FqjpbJyyu1G1",
+        "first_name" : "Fletcher",
+        "last_name" : "Dimanche",
+        "email" : "fdimanche1a@csmonitor.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a5"),
+        "id_cliente" : 48.0,
+        "cedula" : "Htb8KewMlJt4",
+        "first_name" : "Theadora",
+        "last_name" : "McLeoid",
+        "email" : "tmcleoid1b@unicef.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a6"),
+        "id_cliente" : 49.0,
+        "cedula" : "uc1jhh",
+        "first_name" : "Nickolai",
+        "last_name" : "Rhodef",
+        "email" : "nrhodef1c@geocities.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a7"),
+        "id_cliente" : 50.0,
+        "cedula" : "1W1aGAhe",
+        "first_name" : "Chloette",
+        "last_name" : "Clancey",
+        "email" : "cclancey1d@tuttocitta.it"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a8"),
+        "id_cliente" : 51.0,
+        "cedula" : "VxmlrUtS5",
+        "first_name" : "Normy",
+        "last_name" : "Thyer",
+        "email" : "nthyer1e@unblog.fr"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6a9"),
+        "id_cliente" : 52.0,
+        "cedula" : "LE0rErSNXG4",
+        "first_name" : "Tobe",
+        "last_name" : "Minnette",
+        "email" : "tminnette1f@fotki.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6aa"),
+        "id_cliente" : 53.0,
+        "cedula" : "NQqFkIwmitA",
+        "first_name" : "Bevan",
+        "last_name" : "Dagwell",
+        "email" : "bdagwell1g@rambler.ru"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ab"),
+        "id_cliente" : 54.0,
+        "cedula" : "awGyYmFRg",
+        "first_name" : "Gaby",
+        "last_name" : "Martinolli",
+        "email" : "gmartinolli1h@eventbrite.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ac"),
+        "id_cliente" : 55.0,
+        "cedula" : "nFhdJYrATnF",
+        "first_name" : "Tarah",
+        "last_name" : "Bridgman",
+        "email" : "tbridgman1i@desdev.cn"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ad"),
+        "id_cliente" : 56.0,
+        "cedula" : "F7T6d5yTW",
+        "first_name" : "Hilton",
+        "last_name" : "Ismail",
+        "email" : "hismail1j@unicef.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ae"),
+        "id_cliente" : 57.0,
+        "cedula" : "KZT6VekGGlvX",
+        "first_name" : "Melly",
+        "last_name" : "Secret",
+        "email" : "msecret1k@zdnet.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6af"),
+        "id_cliente" : 58.0,
+        "cedula" : "RpAU6FnwZQ",
+        "first_name" : "Tarrance",
+        "last_name" : "Crummie",
+        "email" : "tcrummie1l@biblegateway.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b0"),
+        "id_cliente" : 59.0,
+        "cedula" : "VcDY5mI0dSrX",
+        "first_name" : "Beau",
+        "last_name" : "Baudouin",
+        "email" : "bbaudouin1m@narod.ru"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b1"),
+        "id_cliente" : 60.0,
+        "cedula" : "woM1OPPp74y",
+        "first_name" : "Berny",
+        "last_name" : "Cufflin",
+        "email" : "bcufflin1n@amazonaws.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b2"),
+        "id_cliente" : 61.0,
+        "cedula" : "RTPRtIz6U4Z",
+        "first_name" : "Weber",
+        "last_name" : "Casali",
+        "email" : "wcasali1o@nbcnews.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b3"),
+        "id_cliente" : 62.0,
+        "cedula" : "CThS6z5c",
+        "first_name" : "Jilli",
+        "last_name" : "Bruno",
+        "email" : "jbruno1p@constantcontact.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b4"),
+        "id_cliente" : 63.0,
+        "cedula" : "oFFQwZniw3",
+        "first_name" : "Jamison",
+        "last_name" : "Locksley",
+        "email" : "jlocksley1q@soundcloud.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b5"),
+        "id_cliente" : 64.0,
+        "cedula" : "BzCFZST",
+        "first_name" : "Rikki",
+        "last_name" : "Barritt",
+        "email" : "rbarritt1r@icio.us"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b6"),
+        "id_cliente" : 65.0,
+        "cedula" : "DO6SfvJGW7",
+        "first_name" : "Gaspar",
+        "last_name" : "Gorrissen",
+        "email" : "ggorrissen1s@last.fm"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b7"),
+        "id_cliente" : 66.0,
+        "cedula" : "LUwh1Ny",
+        "first_name" : "Kial",
+        "last_name" : "Craft",
+        "email" : "kcraft1t@artisteer.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b8"),
+        "id_cliente" : 67.0,
+        "cedula" : "1qZ9umuq",
+        "first_name" : "Lorettalorna",
+        "last_name" : "Rummin",
+        "email" : "lrummin1u@spotify.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6b9"),
+        "id_cliente" : 68.0,
+        "cedula" : "UFURJ8IZC3cJ",
+        "first_name" : "Tait",
+        "last_name" : "Merryfield",
+        "email" : "tmerryfield1v@craigslist.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ba"),
+        "id_cliente" : 69.0,
+        "cedula" : "TRr7RGaT",
+        "first_name" : "Amber",
+        "last_name" : "Croster",
+        "email" : "acroster1w@redcross.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6bb"),
+        "id_cliente" : 70.0,
+        "cedula" : "u9CT3vzoRRy",
+        "first_name" : "Wilek",
+        "last_name" : "Symper",
+        "email" : "wsymper1x@gizmodo.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6bc"),
+        "id_cliente" : 71.0,
+        "cedula" : "N9xRQiwoXFhc",
+        "first_name" : "Desmond",
+        "last_name" : "Schimek",
+        "email" : "dschimek1y@i2i.jp"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6bd"),
+        "id_cliente" : 72.0,
+        "cedula" : "uVz84Ykv",
+        "first_name" : "Marchelle",
+        "last_name" : "Goreway",
+        "email" : "mgoreway1z@photobucket.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6be"),
+        "id_cliente" : 73.0,
+        "cedula" : "F2hnuQ",
+        "first_name" : "Reube",
+        "last_name" : "Diaper",
+        "email" : "rdiaper20@de.vu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6bf"),
+        "id_cliente" : 74.0,
+        "cedula" : "QXuOicV7GM",
+        "first_name" : "Ransom",
+        "last_name" : "Castenda",
+        "email" : "rcastenda21@gizmodo.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c0"),
+        "id_cliente" : 75.0,
+        "cedula" : "B5VLn2Mc",
+        "first_name" : "Jakie",
+        "last_name" : "Fortnon",
+        "email" : "jfortnon22@thetimes.co.uk"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c1"),
+        "id_cliente" : 76.0,
+        "cedula" : "1xESXSDkUb",
+        "first_name" : "Aindrea",
+        "last_name" : "Cardoo",
+        "email" : "acardoo23@mlb.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c2"),
+        "id_cliente" : 77.0,
+        "cedula" : "b5u3Q3IX",
+        "first_name" : "Camey",
+        "last_name" : "Curran",
+        "email" : "ccurran24@example.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c3"),
+        "id_cliente" : 78.0,
+        "cedula" : "Icz97qOWP",
+        "first_name" : "Bernette",
+        "last_name" : "Peedell",
+        "email" : "bpeedell25@oakley.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c4"),
+        "id_cliente" : 79.0,
+        "cedula" : "UjIgaj",
+        "first_name" : "Fax",
+        "last_name" : "Beauvais",
+        "email" : "fbeauvais26@joomla.org"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c5"),
+        "id_cliente" : 80.0,
+        "cedula" : "1Wrziw2Pgbf",
+        "first_name" : "Pet",
+        "last_name" : "Santon",
+        "email" : "psanton27@cornell.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c6"),
+        "id_cliente" : 81.0,
+        "cedula" : "TYVPnIBHYjsT",
+        "first_name" : "Gregorio",
+        "last_name" : "Sambeck",
+        "email" : "gsambeck28@sogou.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c7"),
+        "id_cliente" : 82.0,
+        "cedula" : "P91yj9eyqVx",
+        "first_name" : "Dieter",
+        "last_name" : "Poulton",
+        "email" : "dpoulton29@t-online.de"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c8"),
+        "id_cliente" : 83.0,
+        "cedula" : "PGXNYGLkbt",
+        "first_name" : "Twyla",
+        "last_name" : "Kilmurry",
+        "email" : "tkilmurry2a@cnbc.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6c9"),
+        "id_cliente" : 84.0,
+        "cedula" : "znjA8uSHxR0",
+        "first_name" : "Dulcie",
+        "last_name" : "Gregs",
+        "email" : "dgregs2b@narod.ru"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ca"),
+        "id_cliente" : 85.0,
+        "cedula" : "uCa8MO",
+        "first_name" : "Tiff",
+        "last_name" : "Brandrick",
+        "email" : "tbrandrick2c@aol.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6cb"),
+        "id_cliente" : 86.0,
+        "cedula" : "fMoqrj",
+        "first_name" : "Khalil",
+        "last_name" : "Lugsdin",
+        "email" : "klugsdin2d@freewebs.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6cc"),
+        "id_cliente" : 87.0,
+        "cedula" : "eMHWEW",
+        "first_name" : "Dorolice",
+        "last_name" : "Colebeck",
+        "email" : "dcolebeck2e@berkeley.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6cd"),
+        "id_cliente" : 88.0,
+        "cedula" : "SRRhkaZp",
+        "first_name" : "Artie",
+        "last_name" : "Bocock",
+        "email" : "abocock2f@taobao.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6ce"),
+        "id_cliente" : 89.0,
+        "cedula" : "5tnFNQ6xT",
+        "first_name" : "Eadith",
+        "last_name" : "Twitchings",
+        "email" : "etwitchings2g@europa.eu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6cf"),
+        "id_cliente" : 90.0,
+        "cedula" : "jHeAEsptJd7",
+        "first_name" : "Ivy",
+        "last_name" : "Kepling",
+        "email" : "ikepling2h@linkedin.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d0"),
+        "id_cliente" : 91.0,
+        "cedula" : "6lyHi03a",
+        "first_name" : "Ole",
+        "last_name" : "Groome",
+        "email" : "ogroome2i@theglobeandmail.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d1"),
+        "id_cliente" : 92.0,
+        "cedula" : "Xe4BpgUx2E",
+        "first_name" : "Shannan",
+        "last_name" : "Diglin",
+        "email" : "sdiglin2j@ow.ly"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d2"),
+        "id_cliente" : 93.0,
+        "cedula" : "CfXb73",
+        "first_name" : "Adrian",
+        "last_name" : "Lichfield",
+        "email" : "alichfield2k@yolasite.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d3"),
+        "id_cliente" : 94.0,
+        "cedula" : "SxCoO9s",
+        "first_name" : "Elden",
+        "last_name" : "Gynne",
+        "email" : "egynne2l@arizona.edu"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d4"),
+        "id_cliente" : 95.0,
+        "cedula" : "4LLcqzW89t",
+        "first_name" : "Bevon",
+        "last_name" : "Grene",
+        "email" : "bgrene2m@ebay.co.uk"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d5"),
+        "id_cliente" : 96.0,
+        "cedula" : "7XMmtnatbi",
+        "first_name" : "Jilly",
+        "last_name" : "Dozdill",
+        "email" : "jdozdill2n@mediafire.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d6"),
+        "id_cliente" : 97.0,
+        "cedula" : "TwddOEcA9",
+        "first_name" : "Elinor",
+        "last_name" : "Dearell",
+        "email" : "edearell2o@soup.io"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d7"),
+        "id_cliente" : 98.0,
+        "cedula" : "xb14DS",
+        "first_name" : "Cate",
+        "last_name" : "Fairleigh",
+        "email" : "cfairleigh2p@thetimes.co.uk"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d8"),
+        "id_cliente" : 99.0,
+        "cedula" : "bIE3OI6yKXNb",
+        "first_name" : "Brenn",
+        "last_name" : "Trott",
+        "email" : "btrott2q@netscape.com"
+    },
+    {
+        "_id" : ObjectId("5f55bdc662e60091fd60a6d9"),
+        "id_cliente" : 100.0,
+        "cedula" : "R6TXu7br1",
+        "first_name" : "Fields",
+        "last_name" : "Ketteringham",
+        "email" : "fketteringham2r@army.mil"
+    }
+]
+
+
+
+Empleado 
+
+[
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e0"),
+        "id_empleado" : 1.0,
+        "first_name" : "Brett",
+        "last_name" : "Ovell",
+        "email" : "bovell0@i2i.jp",
+        "salario" : 895016.48,
+        "id_supervisor" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e1"),
+        "id_empleado" : 2.0,
+        "first_name" : "Bobina",
+        "last_name" : "Denyukin",
+        "email" : "bdenyukin1@msn.com",
+        "salario" : 959280.0,
+        "id_supervisor" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e2"),
+        "id_empleado" : 3.0,
+        "first_name" : "Bennie",
+        "last_name" : "cornhill",
+        "email" : "bcornhill2@nasa.gov",
+        "salario" : 342516.4,
+        "id_supervisor" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e3"),
+        "id_empleado" : 4.0,
+        "first_name" : "Christian",
+        "last_name" : "Monroe",
+        "email" : "cmonroe3@studiopress.com",
+        "salario" : 58674.09,
+        "id_supervisor" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e4"),
+        "id_empleado" : 5.0,
+        "first_name" : "Allan",
+        "last_name" : "Gorioli",
+        "email" : "agorioli4@howstuffworks.com",
+        "salario" : 868435.73,
+        "id_supervisor" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e5"),
+        "id_empleado" : 6.0,
+        "first_name" : "Cecilia",
+        "last_name" : "Benardeau",
+        "email" : "cbenardeau5@mayoclinic.com",
+        "salario" : 537798.0,
+        "id_supervisor" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e6"),
+        "id_empleado" : 7.0,
+        "first_name" : "Hillier",
+        "last_name" : "Cheater",
+        "email" : "hcheater6@printfriendly.com",
+        "salario" : 549970.95,
+        "id_supervisor" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e7"),
+        "id_empleado" : 8.0,
+        "first_name" : "Donnie",
+        "last_name" : "Erswell",
+        "email" : "derswell7@behance.net",
+        "salario" : 179654.59,
+        "id_supervisor" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e8"),
+        "id_empleado" : 9.0,
+        "first_name" : "Ogdon",
+        "last_name" : "Braisted",
+        "email" : "obraisted8@sohu.com",
+        "salario" : 727467.2,
+        "id_supervisor" : 33.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5e9"),
+        "id_empleado" : 10.0,
+        "first_name" : "Gale",
+        "last_name" : "Calafate",
+        "email" : "gcalafate9@barnesandnoble.com",
+        "salario" : 113172.8,
+        "id_supervisor" : 37.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5ea"),
+        "id_empleado" : 11.0,
+        "first_name" : "Weider",
+        "last_name" : "Heibel",
+        "email" : "wheibela@myspace.com",
+        "salario" : 518761.72,
+        "id_supervisor" : 41.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5eb"),
+        "id_empleado" : 12.0,
+        "first_name" : "Devlin",
+        "last_name" : "Picard",
+        "email" : "dpicardb@123-reg.co.uk",
+        "salario" : 836194.76,
+        "id_supervisor" : 45.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5ec"),
+        "id_empleado" : 13.0,
+        "first_name" : "Lyssa",
+        "last_name" : "Ivasechko",
+        "email" : "livasechkoc@tuttocitta.it",
+        "salario" : 950836.21,
+        "id_supervisor" : 49.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5ed"),
+        "id_empleado" : 14.0,
+        "first_name" : "Aili",
+        "last_name" : "Pancoast",
+        "email" : "apancoastd@senate.gov",
+        "salario" : 175019.96,
+        "id_supervisor" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5ee"),
+        "id_empleado" : 15.0,
+        "first_name" : "Catarina",
+        "last_name" : "Debrett",
+        "email" : "cdebrette@mashable.com",
+        "salario" : 902594.44,
+        "id_supervisor" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5ef"),
+        "id_empleado" : 16.0,
+        "first_name" : "Kimball",
+        "last_name" : "Baldack",
+        "email" : "kbaldackf@tamu.edu",
+        "salario" : 792684.3,
+        "id_supervisor" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f0"),
+        "id_empleado" : 17.0,
+        "first_name" : "Uri",
+        "last_name" : "Giggs",
+        "email" : "ugiggsg@stumbleupon.com",
+        "salario" : 129881.19,
+        "id_supervisor" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f1"),
+        "id_empleado" : 18.0,
+        "first_name" : "Allayne",
+        "last_name" : "Peepall",
+        "email" : "apeepallh@google.cn",
+        "salario" : 58443.31,
+        "id_supervisor" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f2"),
+        "id_empleado" : 19.0,
+        "first_name" : "Johnath",
+        "last_name" : "Ikringill",
+        "email" : "jikringilli@icio.us",
+        "salario" : 11836.41,
+        "id_supervisor" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f3"),
+        "id_empleado" : 20.0,
+        "first_name" : "Virginie",
+        "last_name" : "Quainton",
+        "email" : "vquaintonj@studiopress.com",
+        "salario" : 890892.64,
+        "id_supervisor" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f4"),
+        "id_empleado" : 21.0,
+        "first_name" : "Amy",
+        "last_name" : "Fermoy",
+        "email" : "afermoyk@yellowpages.com",
+        "salario" : 269708.9,
+        "id_supervisor" : 31.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f5"),
+        "id_empleado" : 22.0,
+        "first_name" : "Myrah",
+        "last_name" : "Swiffin",
+        "email" : "mswiffinl@sohu.com",
+        "salario" : 543486.39,
+        "id_supervisor" : 35.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f6"),
+        "id_empleado" : 23.0,
+        "first_name" : "Meridel",
+        "last_name" : "Gutowska",
+        "email" : "mgutowskam@instagram.com",
+        "salario" : 3813.21,
+        "id_supervisor" : 39.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f7"),
+        "id_empleado" : 24.0,
+        "first_name" : "Elsworth",
+        "last_name" : "Harmstone",
+        "email" : "eharmstonen@engadget.com",
+        "salario" : 450991.1,
+        "id_supervisor" : 43.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f8"),
+        "id_empleado" : 25.0,
+        "first_name" : "Robinett",
+        "last_name" : "Merrgan",
+        "email" : "rmerrgano@wikipedia.org",
+        "salario" : 327451.88,
+        "id_supervisor" : 47.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5f9"),
+        "id_empleado" : 26.0,
+        "first_name" : "James",
+        "last_name" : "Smead",
+        "email" : "jsmeadp@microsoft.com",
+        "salario" : 375821.78,
+        "id_supervisor" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5fa"),
+        "id_empleado" : 27.0,
+        "first_name" : "Chick",
+        "last_name" : "Elam",
+        "email" : "celamq@uiuc.edu",
+        "salario" : 422938.1,
+        "id_supervisor" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5fb"),
+        "id_empleado" : 28.0,
+        "first_name" : "Ario",
+        "last_name" : "Bulger",
+        "email" : "abulgerr@goodreads.com",
+        "salario" : 379818.46,
+        "id_supervisor" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5fc"),
+        "id_empleado" : 29.0,
+        "first_name" : "Hendrika",
+        "last_name" : "Dinnis",
+        "email" : "hdinniss@marriott.com",
+        "salario" : 879150.08,
+        "id_supervisor" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5fd"),
+        "id_empleado" : 30.0,
+        "first_name" : "Eyde",
+        "last_name" : "Standall",
+        "email" : "estandallt@goo.gl",
+        "salario" : 802209.36,
+        "id_supervisor" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5fe"),
+        "id_empleado" : 31.0,
+        "first_name" : "Kailey",
+        "last_name" : "covino",
+        "email" : "kcovinou@noaa.gov",
+        "salario" : 646075.59,
+        "id_supervisor" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a5ff"),
+        "id_empleado" : 32.0,
+        "first_name" : "Natalina",
+        "last_name" : "Hadrill",
+        "email" : "nhadrillv@ft.com",
+        "salario" : 713456.37,
+        "id_supervisor" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a600"),
+        "id_empleado" : 33.0,
+        "first_name" : "Carolus",
+        "last_name" : "Crose",
+        "email" : "ccrosew@jugem.jp",
+        "salario" : 361781.06,
+        "id_supervisor" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a601"),
+        "id_empleado" : 34.0,
+        "first_name" : "Zane",
+        "last_name" : "McGilben",
+        "email" : "zmcgilbenx@gmpg.org",
+        "salario" : 448954.99,
+        "id_supervisor" : 33.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a602"),
+        "id_empleado" : 35.0,
+        "first_name" : "Griffith",
+        "last_name" : "Prando",
+        "email" : "gprandoy@vk.com",
+        "salario" : 128384.36,
+        "id_supervisor" : 37.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a603"),
+        "id_empleado" : 36.0,
+        "first_name" : "Dierdre",
+        "last_name" : "Ewols",
+        "email" : "dewolsz@mail.ru",
+        "salario" : 952718.69,
+        "id_supervisor" : 41.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a604"),
+        "id_empleado" : 37.0,
+        "first_name" : "Claudell",
+        "last_name" : "Hindenburg",
+        "email" : "chindenburg10@tiny.cc",
+        "salario" : 767061.12,
+        "id_supervisor" : 45.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a605"),
+        "id_empleado" : 38.0,
+        "first_name" : "Ludovika",
+        "last_name" : "Lacroux",
+        "email" : "llacroux11@netscape.com",
+        "salario" : 771702.61,
+        "id_supervisor" : 49.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a606"),
+        "id_empleado" : 39.0,
+        "first_name" : "Eloise",
+        "last_name" : "Blazic",
+        "email" : "eblazic12@mtv.com",
+        "salario" : 351506.34,
+        "id_supervisor" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a607"),
+        "id_empleado" : 40.0,
+        "first_name" : "Paxton",
+        "last_name" : "Fuggles",
+        "email" : "pfuggles13@salon.com",
+        "salario" : 525999.28,
+        "id_supervisor" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a608"),
+        "id_empleado" : 41.0,
+        "first_name" : "Rodney",
+        "last_name" : "Cranage",
+        "email" : "rcranage14@ft.com",
+        "salario" : 477056.13,
+        "id_supervisor" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a609"),
+        "id_empleado" : 42.0,
+        "first_name" : "Bertrand",
+        "last_name" : "Cowans",
+        "email" : "bcowans15@surveymonkey.com",
+        "salario" : 681400.49,
+        "id_supervisor" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a60a"),
+        "id_empleado" : 43.0,
+        "first_name" : "Regan",
+        "last_name" : "Cesco",
+        "email" : "rcesco16@kickstarter.com",
+        "salario" : 868881.99,
+        "id_supervisor" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a60b"),
+        "id_empleado" : 44.0,
+        "first_name" : "Karyl",
+        "last_name" : "Clerc",
+        "email" : "kclerc17@scribd.com",
+        "salario" : 623426.53,
+        "id_supervisor" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a60c"),
+        "id_empleado" : 45.0,
+        "first_name" : "Gus",
+        "last_name" : "Middlewick",
+        "email" : "gmiddlewick18@admin.ch",
+        "salario" : 757855.44,
+        "id_supervisor" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a60d"),
+        "id_empleado" : 46.0,
+        "first_name" : "Rhianna",
+        "last_name" : "Sellner",
+        "email" : "rsellner19@etsy.com",
+        "salario" : 788363.73,
+        "id_supervisor" : 31.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a60e"),
+        "id_empleado" : 47.0,
+        "first_name" : "Mela",
+        "last_name" : "Feldbau",
+        "email" : "mfeldbau1a@twitter.com",
+        "salario" : 306077.15,
+        "id_supervisor" : 35.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a60f"),
+        "id_empleado" : 48.0,
+        "first_name" : "Marin",
+        "last_name" : "Bryer",
+        "email" : "mbryer1b@oakley.com",
+        "salario" : 66877.02,
+        "id_supervisor" : 39.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a610"),
+        "id_empleado" : 49.0,
+        "first_name" : "Robbyn",
+        "last_name" : "Katz",
+        "email" : "rkatz1c@cafepress.com",
+        "salario" : 356908.62,
+        "id_supervisor" : 43.0
+    },
+    {
+        "_id" : ObjectId("5f55b8d962e60091fd60a611"),
+        "id_empleado" : 50.0,
+        "first_name" : "Verney",
+        "last_name" : "Hentzer",
+        "email" : "vhentzer1d@hhs.gov",
+        "salario" : 132062.75,
+        "id_supervisor" : 47.0
+    }
+]
+
+
+
+estadoHabitacion 
+
+[
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a822"),
+        "id_esta_habitacion" : 1.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "2/5/2020",
+        "fecha_final" : "2/28/2021"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a823"),
+        "id_esta_habitacion" : 2.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "11/13/2021",
+        "fecha_final" : "2/23/2021"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a824"),
+        "id_esta_habitacion" : 3.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "10/3/2020",
+        "fecha_final" : "2/21/2021"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a825"),
+        "id_esta_habitacion" : 4.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "10/4/2021",
+        "fecha_final" : "9/26/2019"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a826"),
+        "id_esta_habitacion" : 5.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "7/11/2020",
+        "fecha_final" : "8/21/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a827"),
+        "id_esta_habitacion" : 6.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "4/27/2021",
+        "fecha_final" : "2/13/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a828"),
+        "id_esta_habitacion" : 7.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "10/26/2019",
+        "fecha_final" : "11/3/2019"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a829"),
+        "id_esta_habitacion" : 8.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "2/8/2020",
+        "fecha_final" : "10/19/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a82a"),
+        "id_esta_habitacion" : 9.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "1/18/2021",
+        "fecha_final" : "2/9/2020"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a82b"),
+        "id_esta_habitacion" : 10.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "8/19/2020",
+        "fecha_final" : "9/10/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a82c"),
+        "id_esta_habitacion" : 11.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "8/22/2022",
+        "fecha_final" : "5/9/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a82d"),
+        "id_esta_habitacion" : 12.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "7/26/2020",
+        "fecha_final" : "4/5/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a82e"),
+        "id_esta_habitacion" : 13.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "12/28/2021",
+        "fecha_final" : "10/12/2019"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a82f"),
+        "id_esta_habitacion" : 14.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "3/5/2021",
+        "fecha_final" : "12/31/2019"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a830"),
+        "id_esta_habitacion" : 15.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "12/4/2019",
+        "fecha_final" : "5/1/2023"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a831"),
+        "id_esta_habitacion" : 16.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "2/9/2022",
+        "fecha_final" : "6/23/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a832"),
+        "id_esta_habitacion" : 17.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "12/26/2020",
+        "fecha_final" : "9/26/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a833"),
+        "id_esta_habitacion" : 18.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "9/13/2021",
+        "fecha_final" : "9/23/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a834"),
+        "id_esta_habitacion" : 19.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "12/4/2020",
+        "fecha_final" : "8/13/2020"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a835"),
+        "id_esta_habitacion" : 20.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "6/26/2021",
+        "fecha_final" : "9/9/2021"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a836"),
+        "id_esta_habitacion" : 21.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "10/16/2020",
+        "fecha_final" : "8/29/2023"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a837"),
+        "id_esta_habitacion" : 22.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "8/12/2021",
+        "fecha_final" : "12/3/2020"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a838"),
+        "id_esta_habitacion" : 23.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "9/23/2020",
+        "fecha_final" : "12/8/2019"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a839"),
+        "id_esta_habitacion" : 24.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "11/2/2021",
+        "fecha_final" : "5/13/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a83a"),
+        "id_esta_habitacion" : 25.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "12/19/2020",
+        "fecha_final" : "7/3/2020"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a83b"),
+        "id_esta_habitacion" : 26.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "3/15/2022",
+        "fecha_final" : "5/13/2020"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a83c"),
+        "id_esta_habitacion" : 27.0,
+        "estado_habitacion" : true,
+        "fecha_inicio" : "1/13/2020",
+        "fecha_final" : "11/9/2019"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a83d"),
+        "id_esta_habitacion" : 28.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "8/26/2021",
+        "fecha_final" : "5/28/2021"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a83e"),
+        "id_esta_habitacion" : 29.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "4/8/2022",
+        "fecha_final" : "1/1/2022"
+    },
+    {
+        "_id" : ObjectId("5f55d14662e60091fd60a83f"),
+        "id_esta_habitacion" : 30.0,
+        "estado_habitacion" : false,
+        "fecha_inicio" : "10/22/2020",
+        "fecha_final" : "2/8/2023"
+    }
+]
+
+estado_reserva 
+
+[
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d1"),
+        "id_estado_reserva" : 1.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2021-12-07T03:41:00.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-10-17T09:18:30.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d2"),
+        "id_estado_reserva" : 2.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2021-09-17T17:47:24.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-01-12T06:56:48.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d3"),
+        "id_estado_reserva" : 3.0,
+        "estado" : true,
+        "fecha_inicio" : {
+            "$date" : "2020-08-07T09:40:30.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-11-15T11:42:01.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d4"),
+        "id_estado_reserva" : 4.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2020-02-20T22:54:35.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2021-04-15T13:45:03.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d5"),
+        "id_estado_reserva" : 5.0,
+        "estado" : true,
+        "fecha_inicio" : {
+            "$date" : "2020-11-10T05:46:47.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-10-08T01:31:15.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d6"),
+        "id_estado_reserva" : 6.0,
+        "estado" : true,
+        "fecha_inicio" : {
+            "$date" : "2022-04-17T22:35:02.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2019-09-15T10:15:40.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d7"),
+        "id_estado_reserva" : 7.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2022-08-26T10:20:22.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2021-02-21T03:13:37.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d8"),
+        "id_estado_reserva" : 8.0,
+        "estado" : true,
+        "fecha_inicio" : {
+            "$date" : "2021-04-02T04:12:44.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2022-01-17T22:45:38.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8d9"),
+        "id_estado_reserva" : 9.0,
+        "estado" : true,
+        "fecha_inicio" : {
+            "$date" : "2022-02-18T00:10:57.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-04-13T18:51:30.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8da"),
+        "id_estado_reserva" : 10.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2020-01-21T11:41:51.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-01-23T18:55:00.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8db"),
+        "id_estado_reserva" : 11.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2020-01-03T22:47:07.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2021-06-24T01:50:50.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8dc"),
+        "id_estado_reserva" : 12.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2020-06-11T06:30:34.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2022-08-16T21:07:40.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8dd"),
+        "id_estado_reserva" : 13.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2019-09-23T03:06:42.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-09-07T07:46:22.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8de"),
+        "id_estado_reserva" : 14.0,
+        "estado" : false,
+        "fecha_inicio" : {
+            "$date" : "2021-01-03T11:18:38.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2021-06-22T05:44:45.000Z"
+        }
+    },
+    {
+        "_id" : ObjectId("5f55dabc62e60091fd60a8df"),
+        "id_estado_reserva" : 15.0,
+        "estado" : true,
+        "fecha_inicio" : {
+            "$date" : "2021-09-24T22:14:14.000Z"
+        },
+        "fecha_fin" : {
+            "$date" : "2020-09-29T01:28:23.000Z"
+        }
+    }
+]
+
+
+habitacion 
+
+
+[
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a840"),
+        "id_habitacion" : 1.0,
+        "categoria_id" : 1.0,
+        "estado_habitacion" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a841"),
+        "id_habitacion" : 2.0,
+        "categoria_id" : 5.0,
+        "estado_habitacion" : 8.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a842"),
+        "id_habitacion" : 3.0,
+        "categoria_id" : 9.0,
+        "estado_habitacion" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a843"),
+        "id_habitacion" : 4.0,
+        "categoria_id" : 13.0,
+        "estado_habitacion" : 22.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a844"),
+        "id_habitacion" : 5.0,
+        "categoria_id" : 17.0,
+        "estado_habitacion" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a845"),
+        "id_habitacion" : 6.0,
+        "categoria_id" : 21.0,
+        "estado_habitacion" : 6.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a846"),
+        "id_habitacion" : 7.0,
+        "categoria_id" : 25.0,
+        "estado_habitacion" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a847"),
+        "id_habitacion" : 8.0,
+        "categoria_id" : 29.0,
+        "estado_habitacion" : 20.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a848"),
+        "id_habitacion" : 9.0,
+        "categoria_id" : 3.0,
+        "estado_habitacion" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a849"),
+        "id_habitacion" : 10.0,
+        "categoria_id" : 7.0,
+        "estado_habitacion" : 4.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a84a"),
+        "id_habitacion" : 11.0,
+        "categoria_id" : 11.0,
+        "estado_habitacion" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a84b"),
+        "id_habitacion" : 12.0,
+        "categoria_id" : 15.0,
+        "estado_habitacion" : 18.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a84c"),
+        "id_habitacion" : 13.0,
+        "categoria_id" : 19.0,
+        "estado_habitacion" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a84d"),
+        "id_habitacion" : 14.0,
+        "categoria_id" : 23.0,
+        "estado_habitacion" : 2.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a84e"),
+        "id_habitacion" : 15.0,
+        "categoria_id" : 27.0,
+        "estado_habitacion" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a84f"),
+        "id_habitacion" : 16.0,
+        "categoria_id" : 1.0,
+        "estado_habitacion" : 16.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a850"),
+        "id_habitacion" : 17.0,
+        "categoria_id" : 5.0,
+        "estado_habitacion" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a851"),
+        "id_habitacion" : 18.0,
+        "categoria_id" : 9.0,
+        "estado_habitacion" : 30.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a852"),
+        "id_habitacion" : 19.0,
+        "categoria_id" : 13.0,
+        "estado_habitacion" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a853"),
+        "id_habitacion" : 20.0,
+        "categoria_id" : 17.0,
+        "estado_habitacion" : 14.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a854"),
+        "id_habitacion" : 21.0,
+        "categoria_id" : 21.0,
+        "estado_habitacion" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a855"),
+        "id_habitacion" : 22.0,
+        "categoria_id" : 25.0,
+        "estado_habitacion" : 28.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a856"),
+        "id_habitacion" : 23.0,
+        "categoria_id" : 29.0,
+        "estado_habitacion" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a857"),
+        "id_habitacion" : 24.0,
+        "categoria_id" : 3.0,
+        "estado_habitacion" : 12.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a858"),
+        "id_habitacion" : 25.0,
+        "categoria_id" : 7.0,
+        "estado_habitacion" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a859"),
+        "id_habitacion" : 26.0,
+        "categoria_id" : 11.0,
+        "estado_habitacion" : 26.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a85a"),
+        "id_habitacion" : 27.0,
+        "categoria_id" : 15.0,
+        "estado_habitacion" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a85b"),
+        "id_habitacion" : 28.0,
+        "categoria_id" : 19.0,
+        "estado_habitacion" : 10.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a85c"),
+        "id_habitacion" : 29.0,
+        "categoria_id" : 23.0,
+        "estado_habitacion" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a85d"),
+        "id_habitacion" : 30.0,
+        "categoria_id" : 27.0,
+        "estado_habitacion" : 24.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a85e"),
+        "id_habitacion" : 31.0,
+        "categoria_id" : 1.0,
+        "estado_habitacion" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a85f"),
+        "id_habitacion" : 32.0,
+        "categoria_id" : 5.0,
+        "estado_habitacion" : 8.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a860"),
+        "id_habitacion" : 33.0,
+        "categoria_id" : 9.0,
+        "estado_habitacion" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a861"),
+        "id_habitacion" : 34.0,
+        "categoria_id" : 13.0,
+        "estado_habitacion" : 22.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a862"),
+        "id_habitacion" : 35.0,
+        "categoria_id" : 17.0,
+        "estado_habitacion" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a863"),
+        "id_habitacion" : 36.0,
+        "categoria_id" : 21.0,
+        "estado_habitacion" : 6.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a864"),
+        "id_habitacion" : 37.0,
+        "categoria_id" : 25.0,
+        "estado_habitacion" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a865"),
+        "id_habitacion" : 38.0,
+        "categoria_id" : 29.0,
+        "estado_habitacion" : 20.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a866"),
+        "id_habitacion" : 39.0,
+        "categoria_id" : 3.0,
+        "estado_habitacion" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a867"),
+        "id_habitacion" : 40.0,
+        "categoria_id" : 7.0,
+        "estado_habitacion" : 4.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a868"),
+        "id_habitacion" : 41.0,
+        "categoria_id" : 11.0,
+        "estado_habitacion" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a869"),
+        "id_habitacion" : 42.0,
+        "categoria_id" : 15.0,
+        "estado_habitacion" : 18.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a86a"),
+        "id_habitacion" : 43.0,
+        "categoria_id" : 19.0,
+        "estado_habitacion" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a86b"),
+        "id_habitacion" : 44.0,
+        "categoria_id" : 23.0,
+        "estado_habitacion" : 2.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a86c"),
+        "id_habitacion" : 45.0,
+        "categoria_id" : 27.0,
+        "estado_habitacion" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a86d"),
+        "id_habitacion" : 46.0,
+        "categoria_id" : 1.0,
+        "estado_habitacion" : 16.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a86e"),
+        "id_habitacion" : 47.0,
+        "categoria_id" : 5.0,
+        "estado_habitacion" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a86f"),
+        "id_habitacion" : 48.0,
+        "categoria_id" : 9.0,
+        "estado_habitacion" : 30.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a870"),
+        "id_habitacion" : 49.0,
+        "categoria_id" : 13.0,
+        "estado_habitacion" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a871"),
+        "id_habitacion" : 50.0,
+        "categoria_id" : 17.0,
+        "estado_habitacion" : 14.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a872"),
+        "id_habitacion" : 51.0,
+        "categoria_id" : 21.0,
+        "estado_habitacion" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a873"),
+        "id_habitacion" : 52.0,
+        "categoria_id" : 25.0,
+        "estado_habitacion" : 28.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a874"),
+        "id_habitacion" : 53.0,
+        "categoria_id" : 29.0,
+        "estado_habitacion" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a875"),
+        "id_habitacion" : 54.0,
+        "categoria_id" : 3.0,
+        "estado_habitacion" : 12.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a876"),
+        "id_habitacion" : 55.0,
+        "categoria_id" : 7.0,
+        "estado_habitacion" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a877"),
+        "id_habitacion" : 56.0,
+        "categoria_id" : 11.0,
+        "estado_habitacion" : 26.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a878"),
+        "id_habitacion" : 57.0,
+        "categoria_id" : 15.0,
+        "estado_habitacion" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a879"),
+        "id_habitacion" : 58.0,
+        "categoria_id" : 19.0,
+        "estado_habitacion" : 10.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a87a"),
+        "id_habitacion" : 59.0,
+        "categoria_id" : 23.0,
+        "estado_habitacion" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55d1ca62e60091fd60a87b"),
+        "id_habitacion" : 60.0,
+        "categoria_id" : 27.0,
+        "estado_habitacion" : 24.0
+    }
+]
+
+Pago 
+
+[
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8c7"),
+        "id_pago" : 1.0,
+        "fecha" : {
+            "$date" : "2022-07-14T09:41:10.000Z"
+        },
+        "cliente" : 1.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 1.0
+            }, 
+            {
+                "id_factura" : 4.0
+            }
+        ],
+        "costo" : 1553.75
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8c8"),
+        "id_pago" : 2.0,
+        "fecha" : {
+            "$date" : "2019-12-21T06:07:43.000Z"
+        },
+        "cliente" : 6.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 6.0
+            }, 
+            {
+                "id_factura" : 7.0
+            }
+        ],
+        "costo" : 3467.98
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8c9"),
+        "id_pago" : 3.0,
+        "fecha" : {
+            "$date" : "2020-12-08T10:39:58.000Z"
+        },
+        "cliente" : 11.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 3.0
+            }, 
+            {
+                "id_factura" : 2.0
+            }, 
+            {
+                "id_factura" : 8.0
+            }
+        ],
+        "costo" : 2187.17
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8ca"),
+        "id_pago" : 4.0,
+        "fecha" : {
+            "$date" : "2020-02-27T11:29:13.000Z"
+        },
+        "cliente" : 16.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 9.0
+            }, 
+            {
+                "id_factura" : 7.0
+            }, 
+            {
+                "id_factura" : 5.0
+            }
+        ],
+        "costo" : 3041.11
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8cb"),
+        "id_pago" : 5.0,
+        "fecha" : {
+            "$date" : "2021-03-12T18:40:28.000Z"
+        },
+        "cliente" : 1.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 3.0
+            }, 
+            {
+                "id_factura" : 5.0
+            }, 
+            {
+                "id_factura" : 7.0
+            }
+        ],
+        "costo" : 9666.01
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8cc"),
+        "id_pago" : 6.0,
+        "fecha" : {
+            "$date" : "2020-03-05T10:30:41.000Z"
+        },
+        "cliente" : 6.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 4.0
+            }, 
+            {
+                "id_factura" : 2.0
+            }
+        ],
+        "costo" : 7170.02
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8cd"),
+        "id_pago" : 7.0,
+        "fecha" : {
+            "$date" : "2022-02-04T00:07:10.000Z"
+        },
+        "cliente" : 11.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 7.0
+            }, 
+            {
+                "id_factura" : 8.0
+            }
+        ],
+        "costo" : 6091.92
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8ce"),
+        "id_pago" : 8.0,
+        "fecha" : {
+            "$date" : "2021-01-08T14:10:28.000Z"
+        },
+        "cliente" : 16.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 10.0
+            }, 
+            {
+                "id_factura" : 5.0
+            }
+        ],
+        "costo" : 7070.02
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8cf"),
+        "id_pago" : 9.0,
+        "fecha" : {
+            "$date" : "2020-06-29T11:24:53.000Z"
+        },
+        "cliente" : 1.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 1.0
+            }
+        ],
+        "costo" : 6735.79
+    },
+    {
+        "_id" : ObjectId("5f55d9dc62e60091fd60a8d0"),
+        "id_pago" : 10.0,
+        "fecha" : {
+            "$date" : "2020-11-14T15:30:08.000Z"
+        },
+        "cliente" : 6.0,
+        "factura_id" : [ 
+            {
+                "id_factura" : 6.0
+            }
+        ],
+        "costo" : 1470.49
+    }
+]
+
+
+Producto 
+
+
+[
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a72a"),
+        "id_producto" : 1.0,
+        "nombre" : "Creme De Cacao White",
+        "precio" : 13266.0,
+        "proveedor_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a72b"),
+        "id_producto" : 2.0,
+        "nombre" : "Truffle - Whole Black Peeled",
+        "precio" : 12754.6,
+        "proveedor_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a72c"),
+        "id_producto" : 3.0,
+        "nombre" : "Corn Kernels - Frozen",
+        "precio" : 10068.55,
+        "proveedor_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a72d"),
+        "id_producto" : 4.0,
+        "nombre" : "Veal - Inside",
+        "precio" : 10488.57,
+        "proveedor_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a72e"),
+        "id_producto" : 5.0,
+        "nombre" : "Juice - Apple, 500 Ml",
+        "precio" : 12710.32,
+        "proveedor_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a72f"),
+        "id_producto" : 6.0,
+        "nombre" : "Wheat - Soft Kernal Of Wheat",
+        "precio" : 12017.44,
+        "proveedor_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a730"),
+        "id_producto" : 7.0,
+        "nombre" : "Hot Choc Vending",
+        "precio" : 11767.57,
+        "proveedor_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a731"),
+        "id_producto" : 8.0,
+        "nombre" : "Lemons",
+        "precio" : 12932.87,
+        "proveedor_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a732"),
+        "id_producto" : 9.0,
+        "nombre" : "Jello - Assorted",
+        "precio" : 12190.53,
+        "proveedor_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a733"),
+        "id_producto" : 10.0,
+        "nombre" : "Wine - Magnotta - Pinot Gris Sr",
+        "precio" : 11421.04,
+        "proveedor_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a734"),
+        "id_producto" : 11.0,
+        "nombre" : "Vermacelli - Sprinkles, Assorted",
+        "precio" : 12549.48,
+        "proveedor_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a735"),
+        "id_producto" : 12.0,
+        "nombre" : "Miso - Soy Bean Paste",
+        "precio" : 13958.5,
+        "proveedor_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a736"),
+        "id_producto" : 13.0,
+        "nombre" : "Beans - Yellow",
+        "precio" : 13857.0,
+        "proveedor_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a737"),
+        "id_producto" : 14.0,
+        "nombre" : "Jello - Assorted",
+        "precio" : 10918.38,
+        "proveedor_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a738"),
+        "id_producto" : 15.0,
+        "nombre" : "Compound - Passion Fruit",
+        "precio" : 10650.29,
+        "proveedor_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a739"),
+        "id_producto" : 16.0,
+        "nombre" : "Pork - Hock And Feet Attached",
+        "precio" : 10637.16,
+        "proveedor_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a73a"),
+        "id_producto" : 17.0,
+        "nombre" : "Bread - Bistro Sour",
+        "precio" : 13441.74,
+        "proveedor_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a73b"),
+        "id_producto" : 18.0,
+        "nombre" : "Bread - Raisin",
+        "precio" : 10644.55,
+        "proveedor_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a73c"),
+        "id_producto" : 19.0,
+        "nombre" : "Cake - Cheese Cake 9 Inch",
+        "precio" : 10375.22,
+        "proveedor_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a73d"),
+        "id_producto" : 20.0,
+        "nombre" : "Tequila - Sauza Silver",
+        "precio" : 11947.04,
+        "proveedor_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a73e"),
+        "id_producto" : 21.0,
+        "nombre" : "Soup Campbells Turkey Veg.",
+        "precio" : 12111.21,
+        "proveedor_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a73f"),
+        "id_producto" : 22.0,
+        "nombre" : "Lemonade - Strawberry, 591 Ml",
+        "precio" : 12998.52,
+        "proveedor_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a740"),
+        "id_producto" : 23.0,
+        "nombre" : "Wine - Rosso Toscano Igt",
+        "precio" : 11138.41,
+        "proveedor_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a741"),
+        "id_producto" : 24.0,
+        "nombre" : "Chinese Lemon Pork",
+        "precio" : 11545.55,
+        "proveedor_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a742"),
+        "id_producto" : 25.0,
+        "nombre" : "Beer - Blue Light",
+        "precio" : 10975.8,
+        "proveedor_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a743"),
+        "id_producto" : 26.0,
+        "nombre" : "Tortillas - Flour, 8",
+        "precio" : 10503.63,
+        "proveedor_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a744"),
+        "id_producto" : 27.0,
+        "nombre" : "Chocolate - Milk, Callets",
+        "precio" : 13764.46,
+        "proveedor_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a745"),
+        "id_producto" : 28.0,
+        "nombre" : "Placemat - Scallop, White",
+        "precio" : 11811.49,
+        "proveedor_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a746"),
+        "id_producto" : 29.0,
+        "nombre" : "Wine - Red, Gallo, Merlot",
+        "precio" : 13129.25,
+        "proveedor_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a747"),
+        "id_producto" : 30.0,
+        "nombre" : "Pop - Club Soda Can",
+        "precio" : 11776.04,
+        "proveedor_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a748"),
+        "id_producto" : 31.0,
+        "nombre" : "Wine - Cabernet Sauvignon",
+        "precio" : 12400.15,
+        "proveedor_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a749"),
+        "id_producto" : 32.0,
+        "nombre" : "Peppercorns - Pink",
+        "precio" : 12253.88,
+        "proveedor_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a74a"),
+        "id_producto" : 33.0,
+        "nombre" : "Ham Black Forest",
+        "precio" : 11884.91,
+        "proveedor_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a74b"),
+        "id_producto" : 34.0,
+        "nombre" : "Wine - Red, Pelee Island Merlot",
+        "precio" : 13521.13,
+        "proveedor_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a74c"),
+        "id_producto" : 35.0,
+        "nombre" : "Fiddlehead - Frozen",
+        "precio" : 13903.5,
+        "proveedor_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a74d"),
+        "id_producto" : 36.0,
+        "nombre" : "Dry Ice",
+        "precio" : 12545.03,
+        "proveedor_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a74e"),
+        "id_producto" : 37.0,
+        "nombre" : "Sauce - Bernaise, Mix",
+        "precio" : 12213.38,
+        "proveedor_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a74f"),
+        "id_producto" : 38.0,
+        "nombre" : "Wine - Alsace Riesling Reserve",
+        "precio" : 13667.62,
+        "proveedor_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a750"),
+        "id_producto" : 39.0,
+        "nombre" : "Thyme - Lemon, Fresh",
+        "precio" : 10211.35,
+        "proveedor_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a751"),
+        "id_producto" : 40.0,
+        "nombre" : "Paper Cocktail Umberlla 80 - 180",
+        "precio" : 12109.49,
+        "proveedor_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a752"),
+        "id_producto" : 41.0,
+        "nombre" : "Bread - Crusty Italian Poly",
+        "precio" : 11921.73,
+        "proveedor_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a753"),
+        "id_producto" : 42.0,
+        "nombre" : "Fudge - Cream Fudge",
+        "precio" : 12561.88,
+        "proveedor_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a754"),
+        "id_producto" : 43.0,
+        "nombre" : "Wine - Puligny Montrachet A.",
+        "precio" : 11369.29,
+        "proveedor_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a755"),
+        "id_producto" : 44.0,
+        "nombre" : "Creme De Banane - Marie",
+        "precio" : 11294.78,
+        "proveedor_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a756"),
+        "id_producto" : 45.0,
+        "nombre" : "Skewers - Bamboo",
+        "precio" : 12168.06,
+        "proveedor_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a757"),
+        "id_producto" : 46.0,
+        "nombre" : "Tart - Pecan Butter Squares",
+        "precio" : 10758.25,
+        "proveedor_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a758"),
+        "id_producto" : 47.0,
+        "nombre" : "Jello - Assorted",
+        "precio" : 10150.18,
+        "proveedor_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a759"),
+        "id_producto" : 48.0,
+        "nombre" : "Broom - Angled",
+        "precio" : 13472.7,
+        "proveedor_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a75a"),
+        "id_producto" : 49.0,
+        "nombre" : "Ecolab - Hobart Upr Prewash Arm",
+        "precio" : 11719.07,
+        "proveedor_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a75b"),
+        "id_producto" : 50.0,
+        "nombre" : "Wine - Cabernet Sauvignon",
+        "precio" : 12462.54,
+        "proveedor_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a75c"),
+        "id_producto" : 51.0,
+        "nombre" : "Chip - Potato Dill Pickle",
+        "precio" : 12652.11,
+        "proveedor_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a75d"),
+        "id_producto" : 52.0,
+        "nombre" : "Bread - Wheat Baguette",
+        "precio" : 13377.08,
+        "proveedor_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a75e"),
+        "id_producto" : 53.0,
+        "nombre" : "Plasticknivesblack",
+        "precio" : 10717.02,
+        "proveedor_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a75f"),
+        "id_producto" : 54.0,
+        "nombre" : "Sprouts - Pea",
+        "precio" : 10353.66,
+        "proveedor_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a760"),
+        "id_producto" : 55.0,
+        "nombre" : "Juice - V8, Tomato",
+        "precio" : 10093.97,
+        "proveedor_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a761"),
+        "id_producto" : 56.0,
+        "nombre" : "Madeira",
+        "precio" : 12402.76,
+        "proveedor_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a762"),
+        "id_producto" : 57.0,
+        "nombre" : "Mushroom - Portebello",
+        "precio" : 11713.1,
+        "proveedor_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a763"),
+        "id_producto" : 58.0,
+        "nombre" : "Tarts Assorted",
+        "precio" : 10807.14,
+        "proveedor_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a764"),
+        "id_producto" : 59.0,
+        "nombre" : "Cheese - Shred Cheddar / Mozza",
+        "precio" : 12287.25,
+        "proveedor_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a765"),
+        "id_producto" : 60.0,
+        "nombre" : "Lid - 0090 Clear",
+        "precio" : 12398.28,
+        "proveedor_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a766"),
+        "id_producto" : 61.0,
+        "nombre" : "Chicken Thigh - Bone Out",
+        "precio" : 11777.14,
+        "proveedor_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a767"),
+        "id_producto" : 62.0,
+        "nombre" : "Water - Tonic",
+        "precio" : 11500.08,
+        "proveedor_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a768"),
+        "id_producto" : 63.0,
+        "nombre" : "Juice - Grapefruit, 341 Ml",
+        "precio" : 11494.35,
+        "proveedor_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a769"),
+        "id_producto" : 64.0,
+        "nombre" : "Pasta - Elbows, Macaroni, Dry",
+        "precio" : 13754.48,
+        "proveedor_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a76a"),
+        "id_producto" : 65.0,
+        "nombre" : "Lettuce - Treviso",
+        "precio" : 12779.73,
+        "proveedor_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a76b"),
+        "id_producto" : 66.0,
+        "nombre" : "Chocolate - White",
+        "precio" : 12079.17,
+        "proveedor_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a76c"),
+        "id_producto" : 67.0,
+        "nombre" : "Tuna - Canned, Flaked, Light",
+        "precio" : 13787.35,
+        "proveedor_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a76d"),
+        "id_producto" : 68.0,
+        "nombre" : "Octopus - Baby, Cleaned",
+        "precio" : 13784.3,
+        "proveedor_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a76e"),
+        "id_producto" : 69.0,
+        "nombre" : "Wine - Prem Select Charddonany",
+        "precio" : 11229.81,
+        "proveedor_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a76f"),
+        "id_producto" : 70.0,
+        "nombre" : "Peach - Fresh",
+        "precio" : 13618.53,
+        "proveedor_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a770"),
+        "id_producto" : 71.0,
+        "nombre" : "Cookie Dough - Double",
+        "precio" : 11665.2,
+        "proveedor_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a771"),
+        "id_producto" : 72.0,
+        "nombre" : "Dip - Tapenade",
+        "precio" : 10420.65,
+        "proveedor_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a772"),
+        "id_producto" : 73.0,
+        "nombre" : "Sauce - Fish 25 Ozf Bottle",
+        "precio" : 12344.64,
+        "proveedor_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a773"),
+        "id_producto" : 74.0,
+        "nombre" : "Lamb - Ground",
+        "precio" : 11312.34,
+        "proveedor_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a774"),
+        "id_producto" : 75.0,
+        "nombre" : "Cheese - Cheddar, Old White",
+        "precio" : 12248.51,
+        "proveedor_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a775"),
+        "id_producto" : 76.0,
+        "nombre" : "Wine - Sogrape Mateus Rose",
+        "precio" : 12273.29,
+        "proveedor_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a776"),
+        "id_producto" : 77.0,
+        "nombre" : "V8 Splash Strawberry Kiwi",
+        "precio" : 13326.55,
+        "proveedor_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a777"),
+        "id_producto" : 78.0,
+        "nombre" : "Turkey - Breast, Smoked",
+        "precio" : 10761.03,
+        "proveedor_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a778"),
+        "id_producto" : 79.0,
+        "nombre" : "Lobster - Canned Premium",
+        "precio" : 10920.21,
+        "proveedor_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55c16162e60091fd60a779"),
+        "id_producto" : 80.0,
+        "nombre" : "Curry Powder Madras",
+        "precio" : 13299.31,
+        "proveedor_id" : 17.0
+    }
+]
+
+
+
+productosXservicios
+
+[
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b3"),
+        "productosXservicios" : 1.0,
+        "cantidad_productos" : 1.0,
+        "servicio_id" : 1.0,
+        "total" : 38317.76
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b4"),
+        "productosXservicios" : 2.0,
+        "cantidad_productos" : 2.0,
+        "servicio_id" : 2.0,
+        "total" : 33333.0
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b5"),
+        "productosXservicios" : 3.0,
+        "cantidad_productos" : 3.0,
+        "servicio_id" : 3.0,
+        "total" : 448460.5
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b6"),
+        "productosXservicios" : 4.0,
+        "cantidad_productos" : 4.0,
+        "servicio_id" : 4.0,
+        "total" : 253669.81
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b7"),
+        "productosXservicios" : 5.0,
+        "cantidad_productos" : 5.0,
+        "servicio_id" : 5.0,
+        "total" : 744286.4
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b8"),
+        "productosXservicios" : 6.0,
+        "cantidad_productos" : 6.0,
+        "servicio_id" : 6.0,
+        "total" : 1013223.55
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8b9"),
+        "productosXservicios" : 7.0,
+        "cantidad_productos" : 7.0,
+        "servicio_id" : 7.0,
+        "total" : 886749.35
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8ba"),
+        "productosXservicios" : 8.0,
+        "cantidad_productos" : 8.0,
+        "servicio_id" : 8.0,
+        "total" : 22222.0
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8bb"),
+        "productosXservicios" : 9.0,
+        "cantidad_productos" : 9.0,
+        "servicio_id" : 9.0,
+        "total" : 249056.79
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8bc"),
+        "productosXservicios" : 10.0,
+        "cantidad_productos" : 10.0,
+        "servicio_id" : 10.0,
+        "total" : 66127.74
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8bd"),
+        "productosXservicios" : 11.0,
+        "cantidad_productos" : 11.0,
+        "servicio_id" : 11.0,
+        "total" : 885727.92
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8be"),
+        "productosXservicios" : 12.0,
+        "cantidad_productos" : 12.0,
+        "servicio_id" : 12.0,
+        "total" : 1025947.25
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8bf"),
+        "productosXservicios" : 13.0,
+        "cantidad_productos" : 13.0,
+        "servicio_id" : 13.0,
+        "total" : 93236.42
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c0"),
+        "productosXservicios" : 14.0,
+        "cantidad_productos" : 14.0,
+        "servicio_id" : 14.0,
+        "total" : 306223.06
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c1"),
+        "productosXservicios" : 15.0,
+        "cantidad_productos" : 15.0,
+        "servicio_id" : 15.0,
+        "total" : 820199.34
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c2"),
+        "productosXservicios" : 16.0,
+        "cantidad_productos" : 16.0,
+        "servicio_id" : 1.0,
+        "total" : 254903.48
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c3"),
+        "productosXservicios" : 17.0,
+        "cantidad_productos" : 17.0,
+        "servicio_id" : 2.0,
+        "total" : 937615.58
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c4"),
+        "productosXservicios" : 18.0,
+        "cantidad_productos" : 18.0,
+        "servicio_id" : 3.0,
+        "total" : 725075.66
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c5"),
+        "productosXservicios" : 19.0,
+        "cantidad_productos" : 19.0,
+        "servicio_id" : 4.0,
+        "total" : 45599.41
+    },
+    {
+        "_id" : ObjectId("5f55d85462e60091fd60a8c6"),
+        "productosXservicios" : 20.0,
+        "cantidad_productos" : 20.0,
+        "servicio_id" : 5.0,
+        "total" : 1115172.05
+    }
+]
+
+
+proveedor 
+
+[
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a77a"),
+        "id_proveedor" : 1.0,
+        "nombre" : "iPath US Treasury 2-year Bear ETN",
+        "direccion" : "83 Dixon Parkway"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a77b"),
+        "id_proveedor" : 2.0,
+        "nombre" : "Miller Industries, Inc.",
+        "direccion" : "14805 8th Drive"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a77c"),
+        "id_proveedor" : 3.0,
+        "nombre" : "Royal Dutch Shell PLC",
+        "direccion" : "40 Goodland Park"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a77d"),
+        "id_proveedor" : 4.0,
+        "nombre" : "Teligent, Inc.",
+        "direccion" : "149 Walton Parkway"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a77e"),
+        "id_proveedor" : 5.0,
+        "nombre" : "Acushnet Holdings Corp.",
+        "direccion" : "10481 Rusk Point"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a77f"),
+        "id_proveedor" : 6.0,
+        "nombre" : "Superior Energy Services, Inc.",
+        "direccion" : "6 Killdeer Alley"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a780"),
+        "id_proveedor" : 7.0,
+        "nombre" : "Morgan Stanley",
+        "direccion" : "3 Anderson Lane"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a781"),
+        "id_proveedor" : 8.0,
+        "nombre" : "WSFS Financial Corporation",
+        "direccion" : "543 Starling Road"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a782"),
+        "id_proveedor" : 9.0,
+        "nombre" : "CardConnect Corp.",
+        "direccion" : "43269 Vidon Hill"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a783"),
+        "id_proveedor" : 10.0,
+        "nombre" : "Capitol Acquisition Corp. III",
+        "direccion" : "98 Kedzie Trail"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a784"),
+        "id_proveedor" : 11.0,
+        "nombre" : "Marten Transport, Ltd.",
+        "direccion" : "0165 Surrey Hill"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a785"),
+        "id_proveedor" : 12.0,
+        "nombre" : "Dynavax Technologies Corporation",
+        "direccion" : "2132 Forster Drive"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a786"),
+        "id_proveedor" : 13.0,
+        "nombre" : "Liberty Media Corporation",
+        "direccion" : "1 Comanche Park"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a787"),
+        "id_proveedor" : 14.0,
+        "nombre" : "Colfax Corporation",
+        "direccion" : "93813 Monica Place"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a788"),
+        "id_proveedor" : 15.0,
+        "nombre" : "CYS Investments, Inc.",
+        "direccion" : "9 Mcguire Hill"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a789"),
+        "id_proveedor" : 16.0,
+        "nombre" : "Isramco, Inc.",
+        "direccion" : "079 Glacier Hill Way"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a78a"),
+        "id_proveedor" : 17.0,
+        "nombre" : "EVINE Live Inc.",
+        "direccion" : "45454 Nevada Hill"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a78b"),
+        "id_proveedor" : 18.0,
+        "nombre" : "Solaris Oilfield Infrastructure, Inc.",
+        "direccion" : "230 Rusk Parkway"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a78c"),
+        "id_proveedor" : 19.0,
+        "nombre" : "Obalon Therapeutics, Inc.",
+        "direccion" : "22901 Novick Road"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a78d"),
+        "id_proveedor" : 20.0,
+        "nombre" : "Gabelli Utility Trust (The)",
+        "direccion" : "29639 Valley Edge Pass"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a78e"),
+        "id_proveedor" : 21.0,
+        "nombre" : "Sears Holdings Corporation",
+        "direccion" : "8 Huxley Trail"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a78f"),
+        "id_proveedor" : 22.0,
+        "nombre" : "Capital One Financial Corporation",
+        "direccion" : "835 Del Mar Avenue"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a790"),
+        "id_proveedor" : 23.0,
+        "nombre" : "Cabot Corporation",
+        "direccion" : "77207 Briar Crest Avenue"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a791"),
+        "id_proveedor" : 24.0,
+        "nombre" : "Barrett Business Services, Inc.",
+        "direccion" : "84 Randy Avenue"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a792"),
+        "id_proveedor" : 25.0,
+        "nombre" : "BlackRock Resources",
+        "direccion" : "9 Hanson Road"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a793"),
+        "id_proveedor" : 26.0,
+        "nombre" : "Midatech Pharma PLC",
+        "direccion" : "0 Pennsylvania Court"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a794"),
+        "id_proveedor" : 27.0,
+        "nombre" : "Trillium Therapeutics Inc.",
+        "direccion" : "38 Corben Street"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a795"),
+        "id_proveedor" : 28.0,
+        "nombre" : "Tuttle Tactical Management Multi-Strategy Income ETF",
+        "direccion" : "1 Golf View Pass"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a796"),
+        "id_proveedor" : 29.0,
+        "nombre" : "IQ Chaikin U.S. Small Cap ETF",
+        "direccion" : "89 Oriole Crossing"
+    },
+    {
+        "_id" : ObjectId("5f55c26162e60091fd60a797"),
+        "id_proveedor" : 30.0,
+        "nombre" : "LogMein, Inc.",
+        "direccion" : "41 Arrowood Point"
+    }
+]
+
+
+reserva 
+
+[
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87c"),
+        "id_reserva" : 1.0,
+        "cliente_id" : 1.0,
+        "empleado_id" : 1.0,
+        "fecha" : "11/15/2019",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 3.0
+            }, 
+            {
+                "id_habitacion" : 5.0
+            }, 
+            {
+                "id_habitacion" : 31.0
+            }
+        ],
+        "precio" : 3034.27
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87d"),
+        "id_reserva" : 2.0,
+        "cliente_id" : 5.0,
+        "empleado_id" : 6.0,
+        "fecha" : "12/30/2020",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 12.0
+            }, 
+            {
+                "id_habitacion" : 7.0
+            }, 
+            {
+                "id_habitacion" : 9.0
+            }, 
+            {
+                "id_habitacion" : 22.0
+            }, 
+            {
+                "id_habitacion" : 23.0
+            }
+        ],
+        "precio" : 2352.8
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87e"),
+        "id_reserva" : 3.0,
+        "cliente_id" : 9.0,
+        "empleado_id" : 11.0,
+        "fecha" : "11/5/2019",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 11.0
+            }, 
+            {
+                "id_habitacion" : 17.0
+            }, 
+            {
+                "id_habitacion" : 27.0
+            }
+        ],
+        "precio" : 2145.97
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87f"),
+        "id_reserva" : 4.0,
+        "cliente_id" : 13.0,
+        "empleado_id" : 16.0,
+        "fecha" : "7/12/2022",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 8.0
+            }, 
+            {
+                "id_habitacion" : 17.0
+            }, 
+            {
+                "id_habitacion" : 16.0
+            }, 
+            {
+                "id_habitacion" : 6.0
+            }
+        ],
+        "precio" : 3127.29
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a880"),
+        "id_reserva" : 5.0,
+        "cliente_id" : 17.0,
+        "empleado_id" : 21.0,
+        "fecha" : "6/18/2022",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 4.0
+            }, 
+            {
+                "id_habitacion" : 14.0
+            }
+        ],
+        "precio" : 1233.86
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a881"),
+        "id_reserva" : 6.0,
+        "cliente_id" : 21.0,
+        "empleado_id" : 26.0,
+        "fecha" : "10/12/2021",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 21.0
+            }, 
+            {
+                "id_habitacion" : 18.0
+            }, 
+            {
+                "id_habitacion" : 12.0
+            }, 
+            {
+                "id_habitacion" : 2.0
+            }
+        ],
+        "precio" : 2214.33
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a882"),
+        "id_reserva" : 7.0,
+        "cliente_id" : 25.0,
+        "empleado_id" : 31.0,
+        "fecha" : "5/7/2021",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 15.0
+            }
+        ],
+        "precio" : 4907.79
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a883"),
+        "id_reserva" : 8.0,
+        "cliente_id" : 29.0,
+        "empleado_id" : 36.0,
+        "fecha" : "10/31/2019",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 22.0
+            }, 
+            {
+                "id_habitacion" : 13.0
+            }, 
+            {
+                "id_habitacion" : 17.0
+            }, 
+            {
+                "id_habitacion" : 7.0
+            }
+        ],
+        "precio" : 2641.25
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a884"),
+        "id_reserva" : 9.0,
+        "cliente_id" : 3.0,
+        "empleado_id" : 41.0,
+        "fecha" : "8/16/2020",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 19.0
+            }
+        ],
+        "precio" : 3363.84
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a885"),
+        "id_reserva" : 10.0,
+        "cliente_id" : 7.0,
+        "empleado_id" : 46.0,
+        "fecha" : "5/21/2022",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 6.0
+            }, 
+            {
+                "id_habitacion" : 12.0
+            }
+        ],
+        "precio" : 4861.48
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a886"),
+        "id_reserva" : 11.0,
+        "cliente_id" : 11.0,
+        "empleado_id" : 1.0,
+        "fecha" : "12/7/2021",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 13.0
+            }
+        ],
+        "precio" : 4626.95
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a887"),
+        "id_reserva" : 12.0,
+        "cliente_id" : 15.0,
+        "empleado_id" : 6.0,
+        "fecha" : "9/5/2021",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 10.0
+            }, 
+            {
+                "id_habitacion" : 20.0
+            }, 
+            {
+                "id_habitacion" : 11.0
+            }, 
+            {
+                "id_habitacion" : 9.0
+            }
+        ],
+        "precio" : 1794.82
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a888"),
+        "id_reserva" : 13.0,
+        "cliente_id" : 19.0,
+        "empleado_id" : 11.0,
+        "fecha" : "1/18/2022",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 16.0
+            }, 
+            {
+                "id_habitacion" : 2.0
+            }
+        ],
+        "precio" : 1480.69
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a889"),
+        "id_reserva" : 14.0,
+        "cliente_id" : 23.0,
+        "empleado_id" : 16.0,
+        "fecha" : "10/18/2021",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 1.0
+            }
+        ],
+        "precio" : 4970.7
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a88a"),
+        "id_reserva" : 15.0,
+        "cliente_id" : 27.0,
+        "empleado_id" : 21.0,
+        "fecha" : "3/21/2022",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 3.0
+            }, 
+            {
+                "id_habitacion" : 27.0
+            }
+        ],
+        "precio" : 1657.86
+    }
+]
+
+
+
+servicio 
+
+
+[
+    {
+        "_id" : ObjectId("5f55c72262e60091fd60a798"),
+        "id_servicio" : 1.0,
+        "nombre" : "Masajeria",
+        "Productos" : [ 
+            {
+                "producto_id" : 10.0
+            }
+        ],
+        "precio" : 43567.8
+    },
+    {
+        "_id" : ObjectId("5f55c77162e60091fd60a799"),
+        "id_servicio" : 2.0,
+        "nombre" : "Mensajeria",
+        "Productos" : [ 
+            {
+                "producto_id" : 3.0
+            }
+        ],
+        "precio" : 78567.8
+    },
+    {
+        "_id" : ObjectId("5f55c79762e60091fd60a79a"),
+        "id_servicio" : 3.0,
+        "nombre" : "parqueadero",
+        "Productos" : [ 
+            {
+                "producto_id" : 6.0
+            }
+        ],
+        "precio" : 93567.8
+    },
+    {
+        "_id" : ObjectId("5f55c86462e60091fd60a79e"),
+        "id_servicio" : 4.0,
+        "nombre" : "Desayuno",
+        "Productos" : [ 
+            {
+                "producto_id" : 9.0
+            }
+        ],
+        "precio" : 58567.8
+    },
+    {
+        "_id" : ObjectId("5f55c88562e60091fd60a79f"),
+        "id_servicio" : 5.0,
+        "nombre" : "Almuerzo",
+        "Productos" : [ 
+            {
+                "producto_id" : 19.0
+            }
+        ],
+        "precio" : 86567.8
+    },
+    {
+        "_id" : ObjectId("5f55c8a562e60091fd60a7a0"),
+        "id_servicio" : 6.0,
+        "nombre" : "Cena",
+        "Productos" : [ 
+            {
+                "producto_id" : 10.0
+            }
+        ],
+        "precio" : 96467.8
+    },
+    {
+        "_id" : ObjectId("5f55c8d062e60091fd60a7a1"),
+        "id_servicio" : 7.0,
+        "nombre" : "Comida Rapida",
+        "Productos" : [ 
+            {
+                "producto_id" : 10.0
+            }
+        ],
+        "precio" : 11467.8
+    },
+    {
+        "_id" : ObjectId("5f55c90362e60091fd60a7a2"),
+        "id_servicio" : 8.0,
+        "nombre" : "Cerenata",
+        "Productos" : [ 
+            {
+                "producto_id" : 12.0
+            }
+        ],
+        "precio" : 133467.8
+    },
+    {
+        "_id" : ObjectId("5f55c93062e60091fd60a7a3"),
+        "id_servicio" : 9.0,
+        "nombre" : "Camping",
+        "Productos" : [ 
+            {
+                "producto_id" : 24.0
+            }
+        ],
+        "precio" : 194841.8
+    },
+    {
+        "_id" : ObjectId("5f55c95462e60091fd60a7a4"),
+        "id_servicio" : 10.0,
+        "nombre" : "aseo",
+        "Productos" : [ 
+            {
+                "producto_id" : 11.0
+            }
+        ],
+        "precio" : 44841.8
+    },
+    {
+        "_id" : ObjectId("5f55c97f62e60091fd60a7a5"),
+        "id_servicio" : 11.0,
+        "nombre" : "peluqueria",
+        "Productos" : [ 
+            {
+                "producto_id" : 23.0
+            }
+        ],
+        "precio" : 94841.8
+    },
+    {
+        "_id" : ObjectId("5f55c9d162e60091fd60a7a6"),
+        "id_servicio" : 12.0,
+        "nombre" : "tour",
+        "Productos" : [ 
+            {
+                "producto_id" : 11.0
+            }
+        ],
+        "precio" : 84841.8
+    },
+    {
+        "_id" : ObjectId("5f55c9fa62e60091fd60a7a7"),
+        "id_servicio" : 13.0,
+        "nombre" : "espectaculos nocturnos",
+        "Productos" : [ 
+            {
+                "producto_id" : 21.0
+            }
+        ],
+        "precio" : 114841.8
+    },
+    {
+        "_id" : ObjectId("5f55ca2962e60091fd60a7a8"),
+        "id_servicio" : 14.0,
+        "nombre" : "telefonia",
+        "Productos" : [ 
+            {
+                "producto_id" : 23.0
+            }
+        ],
+        "precio" : 14841.8
+    },
+    {
+        "_id" : ObjectId("5f55ca4662e60091fd60a7a9"),
+        "id_servicio" : 15.0,
+        "nombre" : "caja fuerte",
+        "Productos" : [ 
+            {
+                "producto_id" : 27.0
+            }
+        ],
+        "precio" : 149841.8
+    }
+]
+
+
+
+turno
+
+[
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a702"),
+        "id_turno" : 1.0,
+        "hora_inicio" : {
+            "$date" : "2019-10-22T01:09:00.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-12-02T21:04:43.000Z"
+        },
+        "empleado_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a703"),
+        "id_turno" : 2.0,
+        "hora_inicio" : {
+            "$date" : "2019-11-30T07:55:32.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-12-11T18:37:59.000Z"
+        },
+        "empleado_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a704"),
+        "id_turno" : 3.0,
+        "hora_inicio" : {
+            "$date" : "2020-03-11T23:10:02.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-09-24T09:25:08.000Z"
+        },
+        "empleado_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a705"),
+        "id_turno" : 4.0,
+        "hora_inicio" : {
+            "$date" : "2019-10-22T07:56:13.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-05-16T14:54:07.000Z"
+        },
+        "empleado_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a706"),
+        "id_turno" : 5.0,
+        "hora_inicio" : {
+            "$date" : "2020-02-08T23:11:12.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-07-29T10:11:13.000Z"
+        },
+        "empleado_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a707"),
+        "id_turno" : 6.0,
+        "hora_inicio" : {
+            "$date" : "2020-06-13T16:51:26.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-02-26T04:17:29.000Z"
+        },
+        "empleado_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a708"),
+        "id_turno" : 7.0,
+        "hora_inicio" : {
+            "$date" : "2019-12-19T22:22:55.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-05-19T04:01:36.000Z"
+        },
+        "empleado_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a709"),
+        "id_turno" : 8.0,
+        "hora_inicio" : {
+            "$date" : "2020-05-30T22:37:00.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-03-19T12:33:48.000Z"
+        },
+        "empleado_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a70a"),
+        "id_turno" : 9.0,
+        "hora_inicio" : {
+            "$date" : "2020-08-18T19:31:11.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-12-19T17:03:48.000Z"
+        },
+        "empleado_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a70b"),
+        "id_turno" : 10.0,
+        "hora_inicio" : {
+            "$date" : "2020-02-05T13:24:45.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-09-14T10:57:44.000Z"
+        },
+        "empleado_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a70c"),
+        "id_turno" : 11.0,
+        "hora_inicio" : {
+            "$date" : "2020-06-28T06:32:33.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-05-26T11:10:24.000Z"
+        },
+        "empleado_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a70d"),
+        "id_turno" : 12.0,
+        "hora_inicio" : {
+            "$date" : "2020-06-02T02:37:38.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-08-13T13:15:23.000Z"
+        },
+        "empleado_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a70e"),
+        "id_turno" : 13.0,
+        "hora_inicio" : {
+            "$date" : "2020-07-21T09:24:48.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-05-05T21:44:21.000Z"
+        },
+        "empleado_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a70f"),
+        "id_turno" : 14.0,
+        "hora_inicio" : {
+            "$date" : "2020-09-06T11:13:11.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-04-02T03:12:02.000Z"
+        },
+        "empleado_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a710"),
+        "id_turno" : 15.0,
+        "hora_inicio" : {
+            "$date" : "2020-08-30T01:18:43.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-12-02T14:19:06.000Z"
+        },
+        "empleado_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a711"),
+        "id_turno" : 16.0,
+        "hora_inicio" : {
+            "$date" : "2019-12-05T10:41:24.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-06-13T14:20:05.000Z"
+        },
+        "empleado_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a712"),
+        "id_turno" : 17.0,
+        "hora_inicio" : {
+            "$date" : "2020-03-09T03:37:06.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-11-04T07:42:47.000Z"
+        },
+        "empleado_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a713"),
+        "id_turno" : 18.0,
+        "hora_inicio" : {
+            "$date" : "2020-02-22T10:12:00.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-05-07T09:17:22.000Z"
+        },
+        "empleado_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a714"),
+        "id_turno" : 19.0,
+        "hora_inicio" : {
+            "$date" : "2020-02-26T02:47:16.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-01-10T19:45:34.000Z"
+        },
+        "empleado_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a715"),
+        "id_turno" : 20.0,
+        "hora_inicio" : {
+            "$date" : "2020-04-11T03:21:31.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-07-14T16:13:38.000Z"
+        },
+        "empleado_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a716"),
+        "id_turno" : 21.0,
+        "hora_inicio" : {
+            "$date" : "2019-12-06T15:00:50.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-08-30T20:56:21.000Z"
+        },
+        "empleado_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a717"),
+        "id_turno" : 22.0,
+        "hora_inicio" : {
+            "$date" : "2019-12-30T15:08:28.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-04-15T03:39:11.000Z"
+        },
+        "empleado_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a718"),
+        "id_turno" : 23.0,
+        "hora_inicio" : {
+            "$date" : "2020-05-20T13:08:37.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-03-23T01:36:44.000Z"
+        },
+        "empleado_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a719"),
+        "id_turno" : 24.0,
+        "hora_inicio" : {
+            "$date" : "2020-04-13T19:05:11.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-10-20T02:48:02.000Z"
+        },
+        "empleado_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a71a"),
+        "id_turno" : 25.0,
+        "hora_inicio" : {
+            "$date" : "2020-03-15T09:27:08.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-02-28T20:29:59.000Z"
+        },
+        "empleado_id" : 7.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a71b"),
+        "id_turno" : 26.0,
+        "hora_inicio" : {
+            "$date" : "2020-01-12T13:42:34.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-04-07T04:21:59.000Z"
+        },
+        "empleado_id" : 11.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a71c"),
+        "id_turno" : 27.0,
+        "hora_inicio" : {
+            "$date" : "2020-08-10T12:49:15.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-03-09T19:24:27.000Z"
+        },
+        "empleado_id" : 15.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a71d"),
+        "id_turno" : 28.0,
+        "hora_inicio" : {
+            "$date" : "2020-05-15T00:12:46.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-06-19T06:53:13.000Z"
+        },
+        "empleado_id" : 19.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a71e"),
+        "id_turno" : 29.0,
+        "hora_inicio" : {
+            "$date" : "2020-05-16T04:59:24.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-07-07T03:06:36.000Z"
+        },
+        "empleado_id" : 23.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a71f"),
+        "id_turno" : 30.0,
+        "hora_inicio" : {
+            "$date" : "2020-01-08T06:18:08.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-08-10T06:01:57.000Z"
+        },
+        "empleado_id" : 27.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a720"),
+        "id_turno" : 31.0,
+        "hora_inicio" : {
+            "$date" : "2019-10-20T10:15:03.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-05-08T21:13:59.000Z"
+        },
+        "empleado_id" : 1.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a721"),
+        "id_turno" : 32.0,
+        "hora_inicio" : {
+            "$date" : "2020-07-17T01:03:52.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-02-04T14:39:22.000Z"
+        },
+        "empleado_id" : 5.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a722"),
+        "id_turno" : 33.0,
+        "hora_inicio" : {
+            "$date" : "2020-08-23T02:08:36.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2019-12-17T04:57:17.000Z"
+        },
+        "empleado_id" : 9.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a723"),
+        "id_turno" : 34.0,
+        "hora_inicio" : {
+            "$date" : "2019-09-19T20:56:23.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-09-05T19:27:26.000Z"
+        },
+        "empleado_id" : 13.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a724"),
+        "id_turno" : 35.0,
+        "hora_inicio" : {
+            "$date" : "2019-12-14T14:37:39.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-01-01T00:15:43.000Z"
+        },
+        "empleado_id" : 17.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a725"),
+        "id_turno" : 36.0,
+        "hora_inicio" : {
+            "$date" : "2020-03-06T15:30:38.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-09-02T20:05:27.000Z"
+        },
+        "empleado_id" : 21.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a726"),
+        "id_turno" : 37.0,
+        "hora_inicio" : {
+            "$date" : "2019-11-21T04:52:52.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-07-16T23:30:14.000Z"
+        },
+        "empleado_id" : 25.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a727"),
+        "id_turno" : 38.0,
+        "hora_inicio" : {
+            "$date" : "2019-11-06T02:54:30.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-04-20T21:23:46.000Z"
+        },
+        "empleado_id" : 29.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a728"),
+        "id_turno" : 39.0,
+        "hora_inicio" : {
+            "$date" : "2020-03-25T10:02:03.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-04-01T01:16:00.000Z"
+        },
+        "empleado_id" : 3.0
+    },
+    {
+        "_id" : ObjectId("5f55bf8362e60091fd60a729"),
+        "id_turno" : 40.0,
+        "hora_inicio" : {
+            "$date" : "2020-06-19T14:44:04.000Z"
+        },
+        "hora_final" : {
+            "$date" : "2020-09-03T14:21:18.000Z"
+        },
+        "empleado_id" : 7.0
+    }
+]
+
+reserva
+
+[
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87c"),
+        "id_reserva" : 1.0,
+        "cliente_id" : 1.0,
+        "empleado_id" : 1.0,
+        "fecha" : "11/15/2019",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 3.0
+            }, 
+            {
+                "id_habitacion" : 5.0
+            }, 
+            {
+                "id_habitacion" : 31.0
+            }
+        ],
+        "precio" : 3034.27
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87d"),
+        "id_reserva" : 2.0,
+        "cliente_id" : 5.0,
+        "empleado_id" : 6.0,
+        "fecha" : "12/30/2020",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 12.0
+            }, 
+            {
+                "id_habitacion" : 7.0
+            }, 
+            {
+                "id_habitacion" : 9.0
+            }, 
+            {
+                "id_habitacion" : 22.0
+            }, 
+            {
+                "id_habitacion" : 23.0
+            }
+        ],
+        "precio" : 2352.8
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87e"),
+        "id_reserva" : 3.0,
+        "cliente_id" : 9.0,
+        "empleado_id" : 11.0,
+        "fecha" : "11/5/2019",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 11.0
+            }, 
+            {
+                "id_habitacion" : 17.0
+            }, 
+            {
+                "id_habitacion" : 27.0
+            }
+        ],
+        "precio" : 2145.97
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a87f"),
+        "id_reserva" : 4.0,
+        "cliente_id" : 13.0,
+        "empleado_id" : 16.0,
+        "fecha" : "7/12/2022",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 8.0
+            }, 
+            {
+                "id_habitacion" : 17.0
+            }, 
+            {
+                "id_habitacion" : 16.0
+            }, 
+            {
+                "id_habitacion" : 6.0
+            }
+        ],
+        "precio" : 3127.29
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a880"),
+        "id_reserva" : 5.0,
+        "cliente_id" : 17.0,
+        "empleado_id" : 21.0,
+        "fecha" : "6/18/2022",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 4.0
+            }, 
+            {
+                "id_habitacion" : 14.0
+            }
+        ],
+        "precio" : 1233.86
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a881"),
+        "id_reserva" : 6.0,
+        "cliente_id" : 21.0,
+        "empleado_id" : 26.0,
+        "fecha" : "10/12/2021",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 21.0
+            }, 
+            {
+                "id_habitacion" : 18.0
+            }, 
+            {
+                "id_habitacion" : 12.0
+            }, 
+            {
+                "id_habitacion" : 2.0
+            }
+        ],
+        "precio" : 2214.33
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a882"),
+        "id_reserva" : 7.0,
+        "cliente_id" : 25.0,
+        "empleado_id" : 31.0,
+        "fecha" : "5/7/2021",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 15.0
+            }
+        ],
+        "precio" : 4907.79
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a883"),
+        "id_reserva" : 8.0,
+        "cliente_id" : 29.0,
+        "empleado_id" : 36.0,
+        "fecha" : "10/31/2019",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 22.0
+            }, 
+            {
+                "id_habitacion" : 13.0
+            }, 
+            {
+                "id_habitacion" : 17.0
+            }, 
+            {
+                "id_habitacion" : 7.0
+            }
+        ],
+        "precio" : 2641.25
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a884"),
+        "id_reserva" : 9.0,
+        "cliente_id" : 3.0,
+        "empleado_id" : 41.0,
+        "fecha" : "8/16/2020",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 19.0
+            }
+        ],
+        "precio" : 3363.84
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a885"),
+        "id_reserva" : 10.0,
+        "cliente_id" : 7.0,
+        "empleado_id" : 46.0,
+        "fecha" : "5/21/2022",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 6.0
+            }, 
+            {
+                "id_habitacion" : 12.0
+            }
+        ],
+        "precio" : 4861.48
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a886"),
+        "id_reserva" : 11.0,
+        "cliente_id" : 11.0,
+        "empleado_id" : 1.0,
+        "fecha" : "12/7/2021",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 13.0
+            }
+        ],
+        "precio" : 4626.95
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a887"),
+        "id_reserva" : 12.0,
+        "cliente_id" : 15.0,
+        "empleado_id" : 6.0,
+        "fecha" : "9/5/2021",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 10.0
+            }, 
+            {
+                "id_habitacion" : 20.0
+            }, 
+            {
+                "id_habitacion" : 11.0
+            }, 
+            {
+                "id_habitacion" : 9.0
+            }
+        ],
+        "precio" : 1794.82
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a888"),
+        "id_reserva" : 13.0,
+        "cliente_id" : 19.0,
+        "empleado_id" : 11.0,
+        "fecha" : "1/18/2022",
+        "estado_reserva" : 1.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 16.0
+            }, 
+            {
+                "id_habitacion" : 2.0
+            }
+        ],
+        "precio" : 1480.69
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a889"),
+        "id_reserva" : 14.0,
+        "cliente_id" : 23.0,
+        "empleado_id" : 16.0,
+        "fecha" : "10/18/2021",
+        "estado_reserva" : 6.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 1.0
+            }
+        ],
+        "precio" : 4970.7
+    },
+    {
+        "_id" : ObjectId("5f55d47462e60091fd60a88a"),
+        "id_reserva" : 15.0,
+        "cliente_id" : 27.0,
+        "empleado_id" : 21.0,
+        "fecha" : "3/21/2022",
+        "estado_reserva" : 11.0,
+        "habitaciones" : [ 
+            {
+                "id_habitacion" : 3.0
+            }, 
+            {
+                "id_habitacion" : 27.0
+            }
+        ],
+        "precio" : 1657.86
+    }
+]
